@@ -4,8 +4,8 @@ Python analysis comparing dendritic branching patterns in rat hippocampal vs.
 neocortical pyramidal neurons, using real neuron reconstructions from 
 [NeuroMorpho.org](https://neuromorpho.org).
 
-*Paper title: "Similar Branching, Different Reach: Dendritic Cable Length Distinguishes between Rat Hippocampal and Neocortical Pyramidal Neurons.<img width="468" height="101" alt="image" src="https://github.com/user-attachments/assets/bf015469-8a05-407e-87cd-1f4f4036dbd8" />
-"*
+*Paper title: "Similar Branching, Different Reach: Dendritic Cable Length Distinguishes between Rat Hippocampal and Neocortical Pyramidal Neurons"
+*
 
 ## Summary
 
